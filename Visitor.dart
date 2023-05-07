@@ -67,6 +67,3 @@ void main() {
 
 El patrón Visitor es útil cuando se tiene una estructura de objetos complejos y se necesitan agregar nuevas operaciones sin cambiar la estructura de la clase existente.
 */
-
-
-
